@@ -1,0 +1,24 @@
+# Dataset directories (keep large/private data out of GitHub)
+forest_sound_dataset/
+FSC22/
+Animal_Voice/
+
+# Audio files (anywhere in the repository)
+*.wav
+*.WAV
+*.wave
+*.aiff
+*.aif
+*.flac
+*.mp3
+*.m4a
+*.ogg
+*.opus
+*.aac
+*.wma
+
+# Notebook and Python-generated local files
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.py[cod]
