@@ -1,0 +1,2 @@
+label,source_path,relative_path,error
+fire,/Users/guidegiegg/งาน/โปรเจคเล็กๆ/PrePair_Sound/forest_sound_dataset/fire/755366__goochiano__wild-fire.m4a,fire/755366__goochiano__wild-fire.m4a,LibsndfileError: Error opening '/Users/guidegiegg/งาน/โปรเจคเล็กๆ/PrePair_Sound/forest_sound_dataset/fire/755366__goochiano__wild-fire.m4a': Format not recognised.
